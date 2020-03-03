@@ -1,0 +1,14 @@
+C:\Users\new\source\repos\oxyplot\oxyplot\bin\Debug\oxyplot.exe.config
+C:\Users\new\source\repos\oxyplot\oxyplot\bin\Debug\oxyplot.exe
+C:\Users\new\source\repos\oxyplot\oxyplot\bin\Debug\oxyplot.pdb
+C:\Users\new\source\repos\oxyplot\oxyplot\bin\Debug\OxyPlot.dll
+C:\Users\new\source\repos\oxyplot\oxyplot\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\new\source\repos\oxyplot\oxyplot\bin\Debug\OxyPlot.xml
+C:\Users\new\source\repos\oxyplot\oxyplot\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\new\source\repos\oxyplot\oxyplot\obj\Debug\oxyplot.csprojAssemblyReference.cache
+C:\Users\new\source\repos\oxyplot\oxyplot\obj\Debug\oxyplot.Form1.resources
+C:\Users\new\source\repos\oxyplot\oxyplot\obj\Debug\oxyplot.Properties.Resources.resources
+C:\Users\new\source\repos\oxyplot\oxyplot\obj\Debug\oxyplot.csproj.GenerateResource.cache
+C:\Users\new\source\repos\oxyplot\oxyplot\obj\Debug\oxyplot.csproj.CopyComplete
+C:\Users\new\source\repos\oxyplot\oxyplot\obj\Debug\oxyplot.exe
+C:\Users\new\source\repos\oxyplot\oxyplot\obj\Debug\oxyplot.pdb
